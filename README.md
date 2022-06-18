@@ -15,3 +15,4 @@ test
 # pro31
 # pro32
 # pro33
+# chess
